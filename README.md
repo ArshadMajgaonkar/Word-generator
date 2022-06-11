@@ -6,7 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Slide the slider to select number of words to be generated and then click on Generate words button
 
-!(/src/assets/bgc.jpg)
+![](/src/assets/outputs/wg1.png)
+
+
+
+![](/src/assets/outputs/wg2.png)
 
 
 ## Development server
